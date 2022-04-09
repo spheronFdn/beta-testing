@@ -21,7 +21,8 @@ The start of testing will be released by the team very soon.
 
 ## What will be the process of highlighting the bugs?
 
-- Bug must be raised on GitHub by using the <raise issue tab>
+- Bug must be raised on GitHub by going to the issue, then create a new issue. 
+- Choose the bug report template and fill all the detail properly.
 - Please mark the <criticality> of the bug by labeling the issue with any of these low, high, critical
 - For UI related issue, use `ui-bug` as label and for API related issue, use `api-bug` as label
 - Must add criticality label for any issue raised - critical or high or low
