@@ -36,7 +36,6 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 ## Your Details
-
-Web3 Name: [e.g. rekpero]
-
-Wallet Address (or ENS): [e.g. rekpero.eth]
+- Web3 Name: [e.g. rekpero]
+- Wallet Address (or ENS): [e.g. rekpero.eth]
+- Twitter handle: [e.g. rekpero]
