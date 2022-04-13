@@ -17,7 +17,10 @@ It's is open to everyone, you just have to raise an issue at https://github.com/
 
 ## When will I start finding the bugs?
 
-The start of testing will be released by the team very soon.
+The bug testing program is starting from 14 April 2022. To start off, you need to visit our aqua release (https://aqua.spheron.network/). You will be already whitelisted in our NFT contract, you can mint 1 NFT and start accessing the platform.
+
+Here is the changelog note for our Aqua Release: https://drive.google.com/file/d/1oL7fuguL_O1T6nXisqUAaKH_QAjVg5sp/view?usp=sharing
+All the previous features are all in place but these new features are added in the platform. Test end-to-end even the older feature.
 
 ## What will be the process of highlighting the bugs?
 
