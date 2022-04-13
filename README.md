@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://spheron.network/">
+<!--   <a href="https://spheron.network/">
     <img src="https://ik.imagekit.io/argo/BugBounty_YtGf5_ATd.png" title="source: imgur.com" alt="Spheron thumbnail" />
-  </a>
+  </a> -->
 
-  <h2 align="center">Spheron Beta Testing Program</h3>
+  <h1 align="center">Spheron Beta Testing Program</h1>
 
   <p align="center">
      Launching the Spheron Beta Testing Program to find bugs and vulnerabilities in our system and get some important feedback for the new web app.
