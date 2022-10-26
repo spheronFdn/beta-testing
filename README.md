@@ -44,4 +44,4 @@ There will be three types of bug that participants can find in the system:
 - Twitter: https://twitter.com/SpheronHQ
 - Telegram: https://t.me/argoofficial
 - LinkedIn: https://www.linkedin.com/company/spheron/
-- Website: https://spheron.network/
+- Website: https://spheron.network//
